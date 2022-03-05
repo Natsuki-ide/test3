@@ -314,31 +314,37 @@ iframe{
 }
 
 /*ーーーーーーーーーーー スタッフ紹介エリア　ーーーーーーーーーーー */
-.stuff img{
+#stuff .profile-clearfix{
+    margin-left: 280px;
+}
+#stuff .wrapper5 .profile-txt{
+    width: 540px;
+    float: left;
+    margin-right: 40px;
+} 
+#stuff .wrapper5 img{
     width: 400px;
     height: 300px;
 }
-.wrapper4 .introduction{
-    float: left;
+#stuff .wrapper5 .profile-img{
+    margin-left: 320px;
 }
-.introduction p{
+#stuff .one{
+    width: 400px;
+    float: left;
+    margin-left: 70px;
+}
+#stuff .one p{
+    font-size: 40px;
     text-align: center;
 }
-.wrapper5{
-    margin-left: 360px;
-}
-.wrapper5 .one{
-    float: left;
-    margin-left: 50px;
-}
-.wrapper5 p{
+
+#stuff .keireki h2{
     font-size: 30px;
-    text-align: center;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
-
-
-
-
 
 
 /*ーーーーーーーーーーー フッターエリア　ーーーーーーーーーーーー */
